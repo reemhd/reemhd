@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **reemhd/reemhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Reem &
-🔭 I’m currently training to become a Software Developer at Northocoders
 
-You can reach me on
-📫 [Linkedin](https://www.linkedin.com/in/reem-halde-5b0854241/) or [Twitter](https://twitter.com/reemhalde)
+🔭 I’m currently training to become a Software Developer at Northocoders
+📫 You can reach me on [Linkedin](https://www.linkedin.com/in/reem-halde-5b0854241/) or [Twitter](https://twitter.com/reemhalde)
