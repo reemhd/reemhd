@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently training to become a Software Developer at Northocoders  
+🔭 I’m currently training to become a Software Developer at Northcoders  
 
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/reem-halde-5b0854241/) or [Twitter](https://twitter.com/reemhalde)
