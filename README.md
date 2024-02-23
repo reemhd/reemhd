@@ -4,7 +4,7 @@ Hi! I'm Reem. I have a general curiosity of how things work and how they're inte
 
 🌱 I’m expanding my expertise by delving deeper into advanced Node.js design patterns, elevating my TypeScript skills and exploring AWS
 
-🚧 Since my current role is heavily focused on backend development, I'm broadening my skill set by building a personal website in my spare time to enhance my frontend skills and also serve as a creative outlet
+🚧 Since my current role is heavily focused on backend development, I'm broadening my skill set by building a personal website in my spare time, to enhance my frontend skills and to serve as a creative outlet
 
 <img src="https://github.com/reemhd/reemhd/assets/113103959/f81409a2-47a2-4632-8421-5db801c6e529" alt="IMG_9689" width="350" height="350">
 
