@@ -6,7 +6,7 @@ Hi! I'm Reem. I have a general curiosity of how things work and how they're inte
 
 🌱 I’m expanding my expertise by delving deeper into advanced Node.js design patterns, elevating my TypeScript skills and exploring AWS
 
-🚧 Since my current role is heavily focused on backend development, I'm broadening my skill set by building a personal website in my spare time to enhance my frontend skills but also serves as a creative outlet
+🚧 Since my current role is heavily focused on backend development, I'm broadening my skill set by building a personal website in my spare time to enhance my frontend skills and also serve as a creative outlet
 
 <!--
 **reemhd/reemhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
