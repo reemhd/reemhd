@@ -1,6 +1,6 @@
 <img src="https://github.com/reemhd/reemhd/assets/113103959/f81409a2-47a2-4632-8421-5db801c6e529" alt="IMG_9689" width="400" height="400">
 
-Hi! I'm Reem. I am currently based in Brighton, UK. I have a general curiosity of how things work and they're interconnected 🔗
+Hi! I'm Reem. I have a general curiosity of how things work and how they're interconnected 🔗
 
 🔭 I'm currently working as a backend developer at Nestegg whose mission is to democratise access to affordable loans through reliable lending solutions. Tech Stack: Node.js, PostgreSQL and AWS
 
