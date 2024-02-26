@@ -1,4 +1,4 @@
-Hi! I'm Reem. I have a innate curiosity of how things work and how they're interconnected 🔗
+Hi! I'm Reem. I have am innate curiosity of how things work and how they're interconnected 🔗
 
 🔭 I'm currently working as a backend developer at Nestegg whose mission is to democratise access to affordable loans through reliable lending solutions. Tech Stack: Node.js, PostgreSQL and AWS
 
